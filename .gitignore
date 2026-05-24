@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
+node_modules/
+
+# Local design reference template, not part of the deployed site
+style 1/
